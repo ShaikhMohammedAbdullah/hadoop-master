@@ -1,2 +1,2 @@
-# hadoop-master
-hadoop master
+# MyHadoop
+Hadoop data
